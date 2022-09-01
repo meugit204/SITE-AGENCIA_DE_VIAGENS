@@ -198,3 +198,9 @@
     background-color: #3251F1;
     color: #fff;
 }
+.roda-pe{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 200px;
+}
