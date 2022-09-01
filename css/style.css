@@ -154,3 +154,47 @@
     color: #fff;
     font-size: 0.9rem;
 }
+
+.container-sobre {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top: 200px;
+
+}
+
+.titulo-sobre-btn {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #000;
+    padding: 5%;
+    box-shadow: 10px 10px;
+    background-color: #E5EAFF;
+}
+
+.titulo-sobre-btn h2 {
+    padding: 2vh 0;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.titulo-sobre-btn p {
+    padding: 8vh 0;
+    font-size: 0.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 3;
+}
+
+.btn {
+    display: block;
+    font-size: 2rem;
+    padding: 2vh 5vw;
+    margin: 0 auto;
+    background-color: #3251F1;
+    color: #fff;
+}
