@@ -9,6 +9,7 @@
  ### Melhorias para se fazer no site
  - [x] Deixar o site mais rápido
  - [ ] Resposivo
+ - [ ] Melhorar o visual
 
 
 ### Linguagens do Projeto
