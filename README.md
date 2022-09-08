@@ -14,4 +14,4 @@ deixa-lo mais rapido e responsivo.
 
 * HTML
 * CSS
-* JAVACRIPT
+* JAVASCRIPT
