@@ -9,3 +9,9 @@
  ### Melhorias para se fazer no site
  
 deixa-lo mais rapido e responsivo.
+
+### Linguagens do Projeto
+
+* HTML
+* CSS
+* JAVACRIPT
