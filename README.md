@@ -5,3 +5,7 @@
  ## Funcionalidades
  
  navegaçao, banner, melhores lugares para se visitar, sobre a agencia e um formulario para entrar em contato.
+ 
+ ### Melhorias para se fazer no site
+ 
+deixa-lo mais rapido e responsivo.
