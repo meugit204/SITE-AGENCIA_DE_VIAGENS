@@ -1,5 +1,5 @@
 # SITE - GENCIA DE VIAGENS 👨‍💻
-LINK DO SITE DESENVOLVIDO: https://meugit204.github.io/CURSO-SITE-DANKI_CODE.github.io/
+LINK DO SITE DESENVOLVIDO: https://meugit204.github.io/SITE-AGENCIA_DE_VIAGENS.githib.io/
 
 DESCRIÇAO:
 
